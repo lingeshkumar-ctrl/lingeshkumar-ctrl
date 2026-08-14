@@ -1,12 +1,12 @@
-<!-- FLUID CYBERPUNK LIQUID HEADER -->
+<!-- FLUID CYBERPUNK LIQUID HEADER (Forced Neon Magenta) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f0ff,711c91,ff003c,001122&height=250&section=header&text=Lingeshkumar%20U&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Network%20Security%20%7C%20SOC%20%7C%20VAPT%20%7C%20GRC&descAlign=50&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=711c91&height=250&section=header&text=Lingeshkumar%20U&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Network%20Security%20%7C%20SOC%20%7C%20VAPT%20%7C%20GRC&descSize=20&descAlign=50&descAlignY=72" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lingeshkumar-u-239807265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/lingeshkumar-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://komarev.com/ghpvc/?username=lingeshkumar-ctrl&color=ff003c&style=for-the-badge&label=SYSTEM+ACCESS+COUNT" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=lingeshkumar-ctrl&color=00f0ff&style=for-the-badge&label=SYSTEM+ACCESS+COUNT" alt="Profile Views">
 </div>
 
 <br>
@@ -28,15 +28,15 @@
 
 <br>
 
-<!-- THREAT INTELLIGENCE METRICS -->
+<!-- THREAT INTELLIGENCE METRICS (Cache Bypassed & Server Swapped) -->
 <h3 align="center">⚡ OVERRIDE_METRICS // TELEMETRY ⚡</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&hide_border=true&theme=radical&w=500" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&hide_border=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&hide_border=true&theme=radical&v=1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&hide_border=true&theme=radical&v=1" width="49%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true&background=0d1117" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true&background=0d1117&v=1" width="100%" />
 </div>
 
 <br>
@@ -95,5 +95,5 @@
 
 <!-- FLUID CYBERPUNK LIQUID FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001122,ff003c,711c91,00f0ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=711c91&height=120&section=footer" width="100%" />
 </div>
