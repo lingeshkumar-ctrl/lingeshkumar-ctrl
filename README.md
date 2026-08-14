@@ -63,3 +63,11 @@
     </td>
   </tr>
 </table>
+
+
+### 🏆 Achievements
+
+* 🏅 **Ranked Top 1%** on TryHackMe / HackTheBox
+* 🏅 **Bug Bounty Winner** - Acknowledged by [Company Name] for critical vulnerability discovery
+* 🥇 **First Place** - [Name of Local/Global CTF Competition]
+* 🎖️ **Certified Information Systems Security Professional (CISSP)**
