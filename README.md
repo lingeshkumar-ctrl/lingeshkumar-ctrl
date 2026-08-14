@@ -11,17 +11,23 @@
 
 <br>
 
-<!-- NEON TERMINAL CONSOLE -->
+<!-- RAISED 3D HARDWARE TERMINAL CONSOLE -->
 <table width="100%">
   <tr>
     <td width="100%">
-      <h3 align="center">⬢ NEON_NEXUS // SYS_INFO ⬢</h3>
+      <h3 align="center">⬢ PERSONAL INFO ⬢</h3>
       <br>
-      <code>> Status............. Graduated / Cybersecurity & IoT Engineer</code><br>
-      <code>> Clearance.......... Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br>
-      <code>> Core.Focus......... Architecting scalable solutions from packet-level scanners to enterprise GRC.</code><br>
-      <code>> Protocol.Execution. Automating repetitive workflows. Highly competitive when challenged.</code><br>
-      <code>> Base.Languages..... Python, Go, Java, C, Rust</code><br>
+      <div align="center">
+        <kbd>
+          <br>
+          <code>> Status............. Graduated / Cybersecurity & IoT Engineer</code><br><br>
+          <code>> Clearance.......... Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br><br>
+          <code>> Core.Focus......... Architecting scalable solutions from packet-level scanners to enterprise GRC.</code><br><br>
+          <code>> Protocol.Execution. Automating repetitive workflows. Highly competitive when challenged.</code><br><br>
+          <code>> Base.Languages..... Python, Go, Java, C, Rust</code><br>
+          <br>
+        </kbd>
+      </div>
     </td>
   </tr>
 </table>
