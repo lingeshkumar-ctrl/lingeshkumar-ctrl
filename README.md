@@ -1,6 +1,6 @@
 <!-- FLUID CYBERPUNK LIQUID HEADER (Forced Neon Magenta) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=711c91&height=250&section=header&text=Lingeshkumar%20U&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Network%20Security%20%7C%20SOC%20%7C%20VAPT%20%7C%20GRC&descSize=20&descAlign=50&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=711c91&height=250&section=header&text=LINGESHKUMAR&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Network%20Security%20%7C%20SOC%20%7C%20VAPT%20%7C%20GRC&descSize=20&descAlign=50&descAlignY=72" width="100%" />
 </div>
 
 <div align="center">
