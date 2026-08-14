@@ -39,17 +39,23 @@
 </table>
 </div>
 <br>
-<!-- THREAT INTELLIGENCE METRICS (Cache Bypassed & Server Swapped) -->
+<!-- THREAT INTELLIGENCE METRICS (FIXED SCALING) -->
 <h3 align="center">⚡ OVERRIDE_METRICS // TELEMETRY ⚡</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&hide_border=true&theme=radical&v=1" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&hide_border=true&theme=radical&v=1" width="49%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true&background=0d1117&v=1" width="100%" />
-</div>
 
+<p align="center">
+  <a href="https://github.com/lingeshkumar-ctrl">
+    <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&theme=radical&hide_border=true" height="175" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/lingeshkumar-ctrl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lingeshkumar-ctrl">
+    <img src="https://streak-stats.demolab.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true" height="175" alt="GitHub Streak" />
+  </a>
+</p>
 <br>
 
 <!-- HOLOGRAPHIC SKILL MATRIX -->
