@@ -20,13 +20,13 @@
 <br>
 <img src="https://github.com/lingeshkumar-ctrl.png" width="130" alt="Avatar" />
 <br><br>
-<code><b>USER:</b> LINGESH_CTRL</code><br>
-<code><b>CLASS:</b> SEC_ENGINEER</code><br>
+<code><b>USER:</b> LINGESHKUMAR-CTRL</code><br>
+<code><b>CLASS:</b> CYBERSECURITY_ENGINEER</code><br>
 <code><b>ACCESS:</b> GRANTED</code>
 <br><br>
 </td>
 <td width="70%">
-<h3 align="center">⬢ CREDENTIALS // SYS_INFO ⬢</h3>
+<h3 align="center">⬢ USER_INFO ⬢</h3>
 <br>
 <code>> <b>Status.......</b> Graduated / Cybersecurity & IoT Engineer</code><br><br>
 <code>> <b>Clearance....</b> Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br><br>
