@@ -11,27 +11,30 @@
 
 <br>
 
-<!-- RAISED 3D HARDWARE TERMINAL CONSOLE -->
+<!-- RAISED 3D HARDWARE TERMINAL CONSOLE (FIXED ALIGNMENT) -->
 <table width="100%">
   <tr>
-    <td width="100%">
+    <td align="center">
       <h3 align="center">⬢ PERSONAL INFO ⬢</h3>
       <br>
-      <div align="center">
-        <kbd>
-          <br>
-          <code>> Status............. Graduated / Cybersecurity & IoT Engineer</code><br><br>
-          <code>> Clearance.......... Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br><br>
-          <code>> Core.Focus......... Architecting scalable solutions from packet-level scanners to enterprise GRC.</code><br><br>
-          <code>> Protocol.Execution. Automating repetitive workflows. Highly competitive when challenged.</code><br><br>
-          <code>> Base.Languages..... Python, Go, Java, C, Rust</code><br>
-          <br>
-        </kbd>
-      </div>
+      <kbd>
+        <table>
+          <tr>
+            <td align="left">
+              <br>
+              <code>> Status............. Graduated / Cybersecurity & IoT Engineer</code><br><br>
+              <code>> Clearance.......... Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br><br>
+              <code>> Core.Focus......... Architecting scalable solutions from packet-level scanners to enterprise GRC.</code><br><br>
+              <code>> Protocol.Execution. Automating repetitive workflows. Highly competitive when challenged.</code><br><br>
+              <code>> Base.Languages..... Python, Go, Java, C, Rust</code><br>
+              <br>
+            </td>
+          </tr>
+        </table>
+      </kbd>
     </td>
   </tr>
 </table>
-
 <br>
 
 <!-- THREAT INTELLIGENCE METRICS (Cache Bypassed & Server Swapped) -->
