@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lingeshkumar-u-239807265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lingeshkumar-u/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/lingeshkumar-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=lingeshkumar-ctrl&color=00f0ff&style=for-the-badge&label=SYSTEM+ACCESS+COUNT" alt="Profile Views">
 </div>
