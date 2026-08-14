@@ -34,6 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&hide_border=true&theme=radical&w=500" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&hide_border=true&theme=radical" width="49%" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true&background=0d1117" width="100%" />
+</div>
 
 <br>
 
