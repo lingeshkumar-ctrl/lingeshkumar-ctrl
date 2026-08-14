@@ -1,6 +1,6 @@
 <!-- FLUID CYBERPUNK LIQUID HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f0ff,711c91,ff003c,001122&height=250&section=header&text=Lingesh%20Kumar%20U&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Cybersecurity%20Professional%20%7C%20Automation%20Architect&descAlign=50&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f0ff,711c91,ff003c,001122&height=250&section=header&text=Lingeshkumar%20U&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Network%20Security%20%7C%20SOC%20%7C%20VAPT%20%7C%20GRC&descAlign=50&descAlignY=72" width="100%" />
 </div>
 
 <div align="center">
@@ -17,25 +17,22 @@
     <td width="100%">
       <h3 align="center">⬢ NEON_NEXUS // SYS_INFO ⬢</h3>
       <br>
-      <code>> User.Status........ Graduated / Full-Time Cybersecurity Professional</code><br>
-      <code>> Core.Focus......... Custom Security Tooling & Access Control Architectures</code><br>
-      <code>> Protocol.Execution. Automating repetitive manual workflows. Highly competitive threat modeling.</code><br>
-      <code>> Base.Languages..... Java, Python, Rust, HTML, CSS</code><br>
+      <code>> Status............. Graduated / Cybersecurity & IoT Engineer</code><br>
+      <code>> Clearance.......... Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br>
+      <code>> Core.Focus......... Architecting scalable solutions from packet-level scanners to enterprise GRC.</code><br>
+      <code>> Protocol.Execution. Automating repetitive workflows. Highly competitive when challenged.</code><br>
+      <code>> Base.Languages..... Python, Go, Java, C, Rust</code><br>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- THREAT INTELLIGENCE METRICS (Fixed URLs + Radical Cyberpunk Theme) -->
+<!-- THREAT INTELLIGENCE METRICS -->
 <h3 align="center">⚡ OVERRIDE_METRICS // TELEMETRY ⚡</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&hide_border=true&theme=radical&w=500" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&hide_border=true&theme=radical" width="49%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true&background=0d1117" width="100%" />
 </div>
 
 <br>
@@ -44,7 +41,7 @@
 <h3 align="center">✦ ARSENAL.SYS ✦</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,rust,html,css,linux,bash,aws,docker,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,python,java,rust,c,linux,bash,git,github,vscode&theme=dark" />
   </a>
 </p>
 
@@ -56,37 +53,37 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">🔴 PII Detection System</h3>
-      <p align="center"><em>[ DATA_PRIVACY ]</em></p>
+      <h3 align="center">🔴 Enterprise Cyber-GRC</h3>
+      <p align="center"><em>[ GO / NEXT.JS / MICROSERVICES ]</em></p>
       <ul>
-        <li>Engineered automation scripts for high-fidelity Personally Identifiable Information detection.</li>
-        <li>Optimized complex data verification logic for secure processing environments.</li>
+        <li>Architecting a centralized Governance, Risk & Compliance platform behind a custom API gateway.</li>
+        <li>Deployed IAM service with centralized JWT generation, stateless validation, and hierarchical RBAC.</li>
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">🔵 RBAC Engine</h3>
-      <p align="center"><em>[ ACCESS_CONTROL ]</em></p>
+      <h3 align="center">🔵 Tactical Recon Script (BAT)</h3>
+      <p align="center"><em>[ PYTHON / SCAPY / NMAP ]</em></p>
       <ul>
-        <li>Developed a rigid Role-Based Access Control authorization framework.</li>
-        <li>Core routing and application logic executed natively via <code>engine.java</code>.</li>
+        <li>Engineered an automated multi-protocol scanning tool with TCP-flag manipulation capabilities.</li>
+        <li>Built custom Tkinter GUI with live packet-stream display, cutting manual triage time by 30%.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🟣 Project Argus</h3>
-      <p align="center"><em>[ CUSTOM_TOOLING ]</em></p>
+      <h3 align="center">🟣 Suricata NIDS Deployment</h3>
+      <p align="center"><em>[ KALI LINUX / SURICATA ]</em></p>
       <ul>
-        <li>Private software engineering repository for advanced security tool development.</li>
-        <li>Low-level, high-performance operational engine built entirely in <strong>Rust</strong>.</li>
+        <li>Configured and deployed a virtualized Intrusion Detection System lab for deep packet inspection.</li>
+        <li>Analyzed over 100+ simulated network logs against advanced signature-based detection rules.</li>
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">🟢 B-Anonym</h3>
-      <p align="center"><em>[ ADVANCED_ANONYMIZATION ]</em></p>
+      <h3 align="center">🟢 RBAC Auth Service PoC</h3>
+      <p align="center"><em>[ JAVA / AES-256 / JWT ]</em></p>
       <ul>
-        <li>Architected and secured approval for robust, high-traffic data anonymization.</li>
-        <li>Engineered to protect user identity vectors across dynamic data streams.</li>
+        <li>Engineered a backend authentication service utilizing AES-256 applied cryptography.</li>
+        <li>Implemented 100% stateless JSON Web Token (JWT) generation for robust secure auth design.</li>
       </ul>
     </td>
   </tr>
