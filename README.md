@@ -11,30 +11,36 @@
 
 <br>
 
-<!-- RAISED 3D HARDWARE TERMINAL CONSOLE (FIXED ALIGNMENT) -->
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h3 align="center">⬢ PERSONAL INFO ⬢</h3>
-      <br>
-      <kbd>
-        <table>
-          <tr>
-            <td align="left">
-              <br>
-              <code>> Status............. Graduated / Cybersecurity & IoT Engineer</code><br><br>
-              <code>> Clearance.......... Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br><br>
-              <code>> Core.Focus......... Architecting scalable solutions from packet-level scanners to enterprise GRC.</code><br><br>
-              <code>> Protocol.Execution. Automating repetitive workflows. Highly competitive when challenged.</code><br><br>
-              <code>> Base.Languages..... Python, Go, Java, C, Rust</code><br>
-              <br>
-            </td>
-          </tr>
-        </table>
-      </kbd>
-    </td>
-  </tr>
-</table>
+<!-- ⬢ CYBERPUNK ID CARD ⬢ -->
+<br>
+<div align="center">
+  <table width="800">
+    <tr>
+      <!-- ID PHOTO & CLEARANCE (LEFT COLUMN) -->
+      <td width="30%" align="center">
+        <br>
+        <img src="https://github.com/lingeshkumar-ctrl.png" width="130" alt="Avatar" />
+        <br><br>
+        <code><b>USER:</b> LINGESH_CTRL</code><br>
+        <code><b>CLASS:</b> SEC_ENGINEER</code><br>
+        <code><b>ACCESS:</b> GRANTED</code>
+        <br><br>
+      </td>
+      
+      <!-- TERMINAL DATA (RIGHT COLUMN) -->
+      <td width="70%">
+        <h3 align="center">⬢ CREDENTIALS // SYS_INFO ⬢</h3>
+        <br>
+        <code>> <b>Status.......</b> Graduated / Cybersecurity & IoT Engineer</code><br><br>
+        <code>> <b>Clearance....</b> Cybersecurity Intern @ Ashtaksha Labs (SOC / VAPT)</code><br><br>
+        <code>> <b>Core.Focus...</b> Architecting scalable solutions from packet scanners to GRC.</code><br><br>
+        <code>> <b>Directive....</b> Automating workflows. Highly competitive when challenged.</code><br><br>
+        <code>> <b>Languages....</b> Python, Go, Java, C, Rust</code>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 <!-- THREAT INTELLIGENCE METRICS (Cache Bypassed & Server Swapped) -->
