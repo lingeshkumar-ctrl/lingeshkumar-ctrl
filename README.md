@@ -39,18 +39,18 @@
 </table>
 </div>
 <br>
-<!-- THREAT INTELLIGENCE METRICS (CACHE BUSTED) -->
+<!-- THREAT INTELLIGENCE METRICS (UNRESTRICTED RAW SVGS) -->
 <h3 align="center">⚡ OVERRIDE_METRICS // TELEMETRY ⚡</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&theme=radical&hide_border=true&v=999" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&theme=radical&hide_border=true&v=999" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true&v=999" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 
