@@ -39,20 +39,12 @@
 </table>
 </div>
 <br>
-<!-- THREAT INTELLIGENCE METRICS (UNRESTRICTED RAW SVGS) -->
 <h3 align="center">⚡ OVERRIDE_METRICS // TELEMETRY ⚡</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lingeshkumar-ctrl&show_icons=true&theme=radical&hide_border=true)](https://github.com/lingeshkumar-ctrl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshkumar-ctrl&layout=compact&theme=radical&hide_border=true)](https://github.com/lingeshkumar-ctrl)
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lingeshkumar-ctrl&theme=radical&hide_border=true)](https://github.com/lingeshkumar-ctrl)
 
 <!-- HOLOGRAPHIC SKILL MATRIX -->
 <h3 align="center">✦ ARSENAL.SYS ✦</h3>
