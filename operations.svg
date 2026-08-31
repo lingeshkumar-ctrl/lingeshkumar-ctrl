@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DotGothic16&amp;family=VT323&amp;display=swap');
+      .title { font-family: 'DotGothic16', monospace; font-size: 26px; fill: #ff5f56; text-shadow: 0 0 5px rgba(255,95,86,0.5); letter-spacing: 2px; }
+      .proj-title { font-family: 'VT323', monospace; font-size: 22px; fill: #00d4ff; }
+      .proj-stack { font-family: 'VT323', monospace; font-size: 16px; fill: #27c93f; }
+      .proj-desc { font-family: 'VT323', monospace; font-size: 16px; fill: #9ca3af; }
+      .card { fill: rgba(10, 10, 10, 0.7); stroke: rgba(255, 95, 86, 0.3); stroke-width: 1.5; backdrop-filter: blur(15px); }
+      .proj-box { fill: rgba(20, 20, 20, 0.5); stroke: #333; stroke-width: 1; rx: 8; }
+    </style>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8a0303" />
+      <stop offset="100%" stop-color="#ff0f7b" />
+    </linearGradient>
+    <filter id="blur-filter" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35" />
+    </filter>
+  </defs>
+
+  <!-- Deep Black Background -->
+  <rect width="800" height="450" fill="#050505" rx="15" />
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.05" />
+  </pattern>
+  <rect width="800" height="450" fill="url(#grid)" rx="15" />
+
+  <!-- Liquid Blob (Animated, Glowing Red/Purple) -->
+  <g transform="translate(400, 225)">
+    <path fill="url(#grad1)" opacity="0.4" filter="url(#blur-filter)"
+          d="M 150 -100 C 180 -50, 160 100, 100 150 C 40 200, -60 180, -120 120 C -180 60, -160 -60, -100 -120 C -40 -180, 120 -150, 150 -100 Z">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Premium Glassmorphism Card -->
+  <rect x="20" y="20" width="760" height="410" rx="12" class="card" />
+  
+  <!-- Terminal Controls -->
+  <circle cx="40" cy="40" r="6" fill="#ff5f56" />
+  <circle cx="60" cy="40" r="6" fill="#ffbd2e" />
+  <circle cx="80" cy="40" r="6" fill="#27c93f" />
+
+  <!-- Title -->
+  <text x="110" y="46" class="title">🚀 DEPLOYED_OPERATIONS</text>
+
+  <!-- Project 1: Cyber-GRC -->
+  <rect x="40" y="80" width="340" height="150" class="proj-box" />
+  <text x="55" y="110" class="proj-title">■ Enterprise Cyber-GRC</text>
+  <text x="55" y="130" class="proj-stack">[ GO / NEXT.JS / MICROSERVICES ]</text>
+  <text x="55" y="160" class="proj-desc">- Centralized GRC backend / API gateway</text>
+  <text x="55" y="180" class="proj-desc">- IAM implementation with stateless JWT</text>
+  <text x="55" y="200" class="proj-desc">  and hierarchical RBAC.</text>
+
+  <!-- Project 2: BAT Script -->
+  <rect x="420" y="80" width="340" height="150" class="proj-box" />
+  <text x="435" y="110" class="proj-title">■ Tactical Recon Script [BAT]</text>
+  <text x="435" y="130" class="proj-stack">[ PYTHON / SCAPY / NMAP ]</text>
+  <text x="435" y="160" class="proj-desc">- Multi-protocol scanner with GUI</text>
+  <text x="435" y="180" class="proj-desc">- TCP-flag manipulation capabilities</text>
+  <text x="435" y="200" class="proj-desc">- Cuts manual triage timeline by 30%</text>
+
+  <!-- Project 3: Suricata NIDS -->
+  <rect x="40" y="250" width="340" height="150" class="proj-box" />
+  <text x="55" y="280" class="proj-title">■ Suricata NIDS Deployment</text>
+  <text x="55" y="300" class="proj-stack">[ KALI LINUX / SURICATA ]</text>
+  <text x="55" y="330" class="proj-desc">- Virtualized lab for DPI workflows</text>
+  <text x="55" y="350" class="proj-desc">- Executed signature-based inspection</text>
+  <text x="55" y="370" class="proj-desc">- Processed 100+ simulated network logs</text>
+
+  <!-- Project 4: RBAC Auth -->
+  <rect x="420" y="250" width="340" height="150" class="proj-box" />
+  <text x="435" y="280" class="proj-title">■ RBAC Auth Service PoC</text>
+  <text x="435" y="300" class="proj-stack">[ JAVA / AES-256 / JWT ]</text>
+  <text x="435" y="330" class="proj-desc">- Backend auth using AES-256 crypto</text>
+  <text x="435" y="350" class="proj-desc">- Stateless JSON Web Token framework</text>
+  <text x="435" y="370" class="proj-desc">- Built for secure architecture eval.</text>
+
+</svg>

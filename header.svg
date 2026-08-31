@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <!-- Web Font for Dot Matrix style -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DotGothic16&amp;family=VT323&amp;display=swap');
+      
+      .title {
+        font-family: 'DotGothic16', monospace;
+        font-size: 32px;
+        fill: #e5e7eb;
+        letter-spacing: 2px;
+      }
+      
+      .subtitle {
+        font-family: 'VT323', monospace;
+        font-size: 24px;
+        fill: #9ca3af;
+        letter-spacing: 1px;
+      }
+
+      .card {
+        fill: rgba(30, 40, 50, 0.4);
+        stroke: rgba(255, 255, 255, 0.15);
+        stroke-width: 1.5;
+        backdrop-filter: blur(12px); 
+      }
+      
+    </style>
+
+    <!-- Gradients for liquid blobs (Kali Linux Theme: Electric Blue & Hacker Red) -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090979" />
+      <stop offset="100%" stop-color="#00d4ff" />
+    </linearGradient>
+    
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8a0303" />
+      <stop offset="100%" stop-color="#ff0f7b" />
+    </linearGradient>
+
+    <filter id="blur-filter" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35" />
+    </filter>
+  </defs>
+
+  <!-- Background: Deep Kali Black -->
+  <rect width="800" height="300" fill="#050505" />
+
+  <!-- Grid overlay for tech/cyber vibe -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.05" />
+  </pattern>
+  <rect width="800" height="300" fill="url(#grid)" />
+
+  <!-- Liquid Blob 1 (Electric Blue) -->
+  <g transform="translate(200, 150)">
+    <path fill="url(#grad1)" opacity="0.6" filter="url(#blur-filter)"
+          d="M 70 -60 C 100 -30, 110 50, 80 80 C 50 110, -30 100, -60 70 C -90 40, -80 -40, -50 -70 C -20 -100, 40 -90, 70 -60 Z">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="15s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Liquid Blob 2 (Hacker Red) -->
+  <g transform="translate(600, 150)">
+    <path fill="url(#grad2)" opacity="0.5" filter="url(#blur-filter)"
+          d="M 60 -50 C 90 -20, 100 40, 70 70 C 40 100, -20 90, -50 60 C -80 30, -70 -30, -40 -60 C -10 -90, 30 -80, 60 -50 Z">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Glassmorphism Card (Darker for Kali) -->
+  <rect x="50" y="40" width="700" height="220" rx="12" class="card" />
+  
+  <!-- Kali Terminal Window Dots -->
+  <circle cx="70" cy="65" r="6" fill="#ff5f56" />
+  <circle cx="90" cy="65" r="6" fill="#ffbd2e" />
+  <circle cx="110" cy="65" r="6" fill="#27c93f" />
+
+  <!-- Text Content -->
+  <text x="70" y="120" class="title"><tspan fill="#27c93f">root@kali</tspan><tspan fill="#e5e7eb">:~# ./lingeshkumar.sh</tspan></text>
+  <text x="70" y="160" class="subtitle">Cybersecurity &amp; IoT Engineer [ SEC_ENG ]</text>
+  <text x="70" y="190" class="subtitle">NETWORK SECURITY | SOC | VAPT | GRC</text>
+  <text x="70" y="220" class="subtitle">status = "Intern @ Ashtaksha Labs"; <tspan fill="#00d4ff">█</tspan></text>
+</svg>
